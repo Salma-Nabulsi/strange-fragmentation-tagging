@@ -17,7 +17,7 @@ do not. This difference is not used by any existing analysis.
 
 Simulated proton-proton collisions at √s = 13 TeV
 - LHCb detector, Run 2 conditions (2015–2018)
-- >11.5 million reconstructed tracks (Monte Carlo)
+- Over 11.5 million reconstructed tracks (Monte Carlo)
 - Data obtained from CERN — not included in this repository
 
 To run this code, place your `.root` file in the `data/` folder 
