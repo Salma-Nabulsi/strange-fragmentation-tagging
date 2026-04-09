@@ -2,7 +2,7 @@
 
 A machine learning pipeline for improving background rejection 
 in B_s → Kμν decays at LHCb, using strange fragmentation 
-tracks as a novel discriminating handle.
+tracks as a novel discriminating approach.
 
 ## Motivation
 
