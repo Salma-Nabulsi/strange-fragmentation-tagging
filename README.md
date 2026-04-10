@@ -1,8 +1,8 @@
 # Strange Fragmentation Kaon Tagging for |Vub| Measurement
 
-A machine learning pipeline for improving background rejection 
+A machine learning approach for improving background rejection 
 in B_s → Kμν decays at LHCb, using strange fragmentation 
-tracks as a novel discriminating approach.
+tracks as a novel approach.
 
 ## Motivation
 
