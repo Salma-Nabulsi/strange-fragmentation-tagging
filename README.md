@@ -20,11 +20,7 @@ Simulated proton-proton collisions at √s = 13 TeV
 - Over 11.5 million reconstructed tracks (Monte Carlo)
 - Data obtained from CERN — not included in this repository
 
-To run this code, place your `.root` file in the `data/` folder 
-and update the path in `src/config.py`.
-
 ## Acknowledgements
 
 Data: CERN / LHCb Collaboration  
 Mentor: Dr. Basem Khanji  
-Institution: Ibn Rushd National Academy, Jordan
